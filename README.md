@@ -6,6 +6,6 @@ O Bakcend da aplicação consiste em uma integração com a API da SpaceX de dad
 
 ![Untitled](https://github.com/MotaGuilherme/spacex-api/assets/67146263/9de6d105-0276-4ff6-90b8-5ad9ea6cf361)
 
-As tecnologias utilizadas na aplicação foram NodeJs, JavaScript, MongoDb, Express, Axios, Docker e Swagger para documentação.
+As tecnologias utilizadas na aplicação foram NodeJs, JavaScript, MongoDb, Express, Axios, Docker e Swagger para documentação. 
 
 Para rodar o projeto, deve ser feito o comando npm install e npm start, no caso do Docker, docker-compose build e docker compose-up.
