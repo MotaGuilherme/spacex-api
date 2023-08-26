@@ -57,7 +57,6 @@ export default class LaunchersService {
                     landpad: core.landpad
                 }));
 
-               console.log(logoUrl)
                 const rocketName = rocketIdToName[rocket] || "Unknown Rocket";
                 const webcast = links && links.webcast;
 
