@@ -71,17 +71,6 @@ router.route('/launchers')
 
 /**
  * @swagger
- * /api/launchers:
- *   get:
- *     summary: Dados do banco de dados
- *     responses:
- *       200:
- *         description:  Retorna todos os inseridos no banco de dados
- */
-
-
-/**
- * @swagger
  * /api/seed_db:
  *   post:
  *     summary: Persiste os dados no banco
